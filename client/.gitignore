@@ -67,3 +67,9 @@ yarn.lock
 .DS_Store
 .vscode
 *.xslx
+
+# dist directory
+dist/
+
+# settings
+.vscode/
